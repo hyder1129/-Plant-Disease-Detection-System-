@@ -3,7 +3,7 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/Plant-Disease-Detection.git
+https://github.com/hyder1129/-Plant-Disease-Detection-System-
 ```
 - Goto the cloned folder.
 ```
